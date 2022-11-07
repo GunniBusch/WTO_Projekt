@@ -39,9 +39,9 @@ class CT:
 
             ct1, ct2 = self.ct
 
-            size = len(self.bfv.poly_modulo) - 1
+            size = self.bfv.n - 1
 
-            m = np.array([other] + [0] * (size - 1), dtype=np.int64) % self.bfv.t
+            m = np.array([other] + [0] * (size), dtype=np.int64) % self.bfv.t
 
             d = self.bfv.q // self.bfv.t
 

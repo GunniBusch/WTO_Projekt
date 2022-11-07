@@ -1,5 +1,6 @@
 # WTO_Projekt
-Der Code den ich zu meiner W-Seminararbeit erstellt habe.
+Den Code, welchen ich zu meiner W-Seminararbeit erstellt habe.
 
 # Copyright
-(c) 2022 Leon Adomaitis
+Licenced under GNU Lesser General Public License v2.1
+© 2022 Leon Adomaitis
